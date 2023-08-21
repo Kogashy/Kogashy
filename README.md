@@ -8,5 +8,5 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The0afe&show_icons=true&theme=tokyonight)
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=The0afe&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kogashy&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kogashy&theme=blue-green)
